@@ -1,0 +1,30 @@
+[
+  {
+    "ingredient": "Strawberries",
+    "price": "1.50"
+  },
+  {
+    "ingredient": "Banana",
+    "price": "0.50",
+  },
+  {
+    "ingredient": "Mango",
+    "price": "2.50",
+  },
+  {
+    "ingredient": "Bluberries",
+    "price": "1.0"
+  },
+  {
+    "ingredient": "Raspberries",
+    "price": "1.0"
+  },
+  {
+    "ingredient": "Apple",
+    "price": "1.75"
+  },
+  {
+    "ingredient": "Pineapple",
+    "price": "3.50"
+  }
+]

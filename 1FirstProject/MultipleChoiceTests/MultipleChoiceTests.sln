@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleChoiceTests", "MultipleChoiceTests\MultipleChoiceTests.csproj", "{24111A8D-CECF-4C87-A54A-EC5612267A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleChoiceTests_Tests", "MultipleChoiceTests_Tests\MultipleChoiceTests_Tests.csproj", "{037D4AD9-1034-4591-B429-CC2FBC50BB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24111A8D-CECF-4C87-A54A-EC5612267A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24111A8D-CECF-4C87-A54A-EC5612267A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24111A8D-CECF-4C87-A54A-EC5612267A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24111A8D-CECF-4C87-A54A-EC5612267A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037D4AD9-1034-4591-B429-CC2FBC50BB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037D4AD9-1034-4591-B429-CC2FBC50BB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037D4AD9-1034-4591-B429-CC2FBC50BB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037D4AD9-1034-4591-B429-CC2FBC50BB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63584CA1-CF68-4A45-8B27-728FD4798169}
+	EndGlobalSection
+EndGlobal

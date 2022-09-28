@@ -1,0 +1,67 @@
+
+            [
+                  {
+                    "barcode": "CC100811819CA",
+                    "postalCode": "C0A9Z9",
+                    "addressLocator": "",
+                    "countryCode": "CA",
+                    "avcCorrected": "true",
+                    "serviceType": "2",
+                    "ServiceTypeSourceT": "Icon",
+                    "ResultSourceT": "CPCBarcode",
+                    "ngbOptions": "00570",
+                    "serviceTypeExtension": ""
+                  }, 
+
+				 {
+                    "barcode": "CC021234547CA",
+                    "postalCode": "A1A1A2",
+                    "addressLocator": "null",
+                    "countryCode": "CA",
+                    "avcCorrected": "true",
+                    "serviceType": "3",
+                    "ServiceTypeSourceT": "Icon",
+                    "ResultSourceT": "CPCBarcode",
+                    "ngbOptions": "00570",
+                    "serviceTypeExtension": ""
+                  },
+                  {
+                    "barcode": "2AAA123101228157002399900000",
+                    "postalCode": "M2R3A0",
+                    "addressLocator": "",
+                    "countryCode": "CA",
+                    "avcCorrected": "true",
+                    "serviceType": "2",
+                    "ServiceTypeSourceT": "icon",
+                    "ResultSourceT": "AutomaticReader",
+                    "ngbOptions": "00000",
+                    "serviceTypeExtension": "F"
+                  },
+				  
+				  {
+                    "barcode": "2LYR651025710023612399900000",
+                    "postalCode": "M2R3A0",
+                    "addressLocator": "",
+                    "countryCode": "CA",
+                    "avcCorrected": "true",
+                    "serviceType": "2",
+                    "ServiceTypeSourceT": "icon",
+                    "ResultSourceT": "AutomaticReader",
+                    "ngbOptions": "00000",
+                    "serviceTypeExtension": "S"
+                  },
+				  
+				  {
+                    "barcode": "2AAA111120010023612391100000",
+                    "postalCode": "L6Y5R1",
+                    "addressLocator": "",
+                    "countryCode": "CA",
+                    "avcCorrected": "true",
+                    "serviceType": "1",
+                    "ServiceTypeSourceT": "icon",
+                    "ResultSourceT": "AutomaticReader",
+                    "ngbOptions": "00000",
+                    "serviceTypeExtension": "S"
+                  }				  
+            ]
+        

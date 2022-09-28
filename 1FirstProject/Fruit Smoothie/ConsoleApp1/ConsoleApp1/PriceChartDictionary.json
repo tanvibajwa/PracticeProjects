@@ -1,0 +1,7 @@
+			clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.Fault);
+            clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.Jammed);
+            clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.Full);
+            clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.Disabled);
+            clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.HalfFull);
+            clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.NoContainer);
+            clbBinStatusZone2.SetItemChecked(0, cinetic.RTXtoOAM_BinStatus_R1_3_Zone2.BlockedByOam);
